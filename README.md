@@ -20,3 +20,8 @@ It is important that users do have the proper plugins to use this script, they c
 ### Influcence:
 
 The program was influence by [CaImAn](https://github.com/flatironinstitute/CaImAn), whose ROI extraction technique is closely resembled. It is import to note that this macro does not offer all the functionalities of this toolbox but rather only ROI extraction.
+
+
+### Analysis:
+
+To performace a light intensity analysis using the generated ROIs, you can keep them as one ROI or split them seperately. Then when you want to process them select them the ROI manaqger and right click "Multi Measue", this will allow for you  to measure in accordance to ROI in reference to each slice.
